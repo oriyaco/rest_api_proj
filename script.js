@@ -120,7 +120,7 @@ $(document).ready(function() {
 	})
 	
 	$(document).on("click",".delete_details",function() {
-		var patient_id = button.data('private');
+		var patient_id = $(this).data('private');
 			$.ajax({
 			type: "POST",
 			url: 'api/delete.php',
