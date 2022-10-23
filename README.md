@@ -5,7 +5,7 @@
 
 Installations: 
 
-WHAMP
+WAMP Server
 https://sourceforge.net/projects/wampserver/
 
 
